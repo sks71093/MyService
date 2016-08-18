@@ -1,0 +1,7 @@
+F:\shivam\officialProjectTutorial\myservice\myservice\bin\Release\myservice.exe.config
+F:\shivam\officialProjectTutorial\myservice\myservice\bin\Release\myservice.exe
+F:\shivam\officialProjectTutorial\myservice\myservice\bin\Release\myservice.pdb
+F:\shivam\officialProjectTutorial\myservice\myservice\obj\Release\myservice.ProjectInstaller.resources
+F:\shivam\officialProjectTutorial\myservice\myservice\obj\Release\myservice.csproj.GenerateResource.Cache
+F:\shivam\officialProjectTutorial\myservice\myservice\obj\Release\myservice.exe
+F:\shivam\officialProjectTutorial\myservice\myservice\obj\Release\myservice.pdb
